@@ -1,5 +1,5 @@
-# PhoneList
-This is simple Phone List webapp exercise. 
+# Phone Catalog App
+This is simple Phone Catalog webapp exercise. 
 
 Back-end was made in Django REST Framework. 
 
