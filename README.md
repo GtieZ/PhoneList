@@ -28,7 +28,7 @@ Front-end in React width react-redux.
 endpoint: http://127.0.0.1:8000/api/phones/
 
 
-# Exercise 1 (front-end)
+# Exercise 2 (front-end)
 
 ## Build With
 - React v17.02.2
