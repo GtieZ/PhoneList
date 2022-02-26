@@ -20,6 +20,7 @@ Front-end in React width react-redux.
 
 ## Executing program
   `cd backend/phonelist`
+  
   `python3 manage.py runserver`
   
 endpoint: http://127.0.0.1:8000/api/phones/
@@ -38,6 +39,7 @@ endpoint: http://127.0.0.1:8000/api/phones/
 
 ## Executing program
   `cd frontend`
+  
   `npm start`
   
 Runs the app in development mode.
