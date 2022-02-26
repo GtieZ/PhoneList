@@ -1,0 +1,32 @@
+*{
+  text-align: center;
+}
+
+.App{
+  background-color: ghostwhite;
+}
+
+.phone-container{
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.card-phone{
+  width: 18rem;
+}
+
+.card-image{
+  object-fit: contain;
+  height: 300px;
+  width: auto;
+}
+
+.card-image:hover{
+ cursor: pointer;
+}
+
+.modal-img{
+  object-fit: contain;
+  height: 200px;
+  width: auto;
+}
