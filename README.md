@@ -1,6 +1,8 @@
 # PhoneList
 This is simple Phone List webapp exercise. 
+
 Back-end was made in Django REST Framework. 
+
 Front-end in React width react-redux.
 
 # Exercise 1 (back-end)
